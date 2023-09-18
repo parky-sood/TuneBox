@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Tune Box", "Tune Box\Tune Box.vcxproj", "{24EDEB9C-87F9-4E4D-A8D3-5DB5D26A470A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{24EDEB9C-87F9-4E4D-A8D3-5DB5D26A470A}.Debug|x64.ActiveCfg = Debug|x64
+		{24EDEB9C-87F9-4E4D-A8D3-5DB5D26A470A}.Debug|x64.Build.0 = Debug|x64
+		{24EDEB9C-87F9-4E4D-A8D3-5DB5D26A470A}.Release|x64.ActiveCfg = Release|x64
+		{24EDEB9C-87F9-4E4D-A8D3-5DB5D26A470A}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E0DB3F7A-0073-40A2-A63D-9FB30963C5B8}
+	EndGlobalSection
+EndGlobal
